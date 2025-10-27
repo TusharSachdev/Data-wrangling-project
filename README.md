@@ -120,7 +120,7 @@ Four interrelated datasets were created to simulate a real ERP environment:
 
 ---
 
-## 🧠 ### 🔍 Interpretation (Analyst’s Takeaways)
+### 🔍 Interpretation (Analyst’s Takeaways)
 
 | Insight Type | Example Insight |
 |---------------|----------------|
